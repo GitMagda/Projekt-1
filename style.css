@@ -201,6 +201,7 @@ ul.specjaliści {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
+  text-align: center;
 }
 li.service {
   width: 198px;
@@ -209,6 +210,7 @@ li.service {
   list-style-type: none;
   margin: auto;
   line-height: 194px;
+  display: inline-block;
 }
 
 /* footer */
